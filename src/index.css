@@ -11,3 +11,6 @@
 .vignette-effect {
   background: radial-gradient(circle, transparent, black 80%);
 }
+body{
+  overflow-x: hidden ;
+}
